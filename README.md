@@ -7,7 +7,7 @@ In this application we have two file
 
 # Package Required
 
-import numpy as np
-import cv2
-import os
-import time
+1. numpy
+2. cv2
+3. os
+4. time
